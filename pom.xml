@@ -59,6 +59,12 @@
         </dependency>
 
         <dependency>
+            <groupId>com.hpe.lft</groupId>
+            <artifactId>appmodel-generator-mojo</artifactId>
+            <version>${uftdeveloper.version}</version>
+        </dependency>
+
+        <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-java</artifactId>
             <version>1.2.5</version>
